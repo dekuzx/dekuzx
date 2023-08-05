@@ -25,3 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"height="40"/> </a> </p>
+
+<h3 align="left">Languages learning:</h3>
+<p align="left"> <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"> <img src="![021a17464febf8a4f89f8d1a4431652a](https://github.com/dekufpss/dekufpss/assets/111773957/987eb896-c4e2-4b4e-9efc-059d6fb8aac2)
+" alt="lua" width="40"  width="40"height="40"/> </a> </p>
