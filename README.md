@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Lua**
 
-- 🔭 I’m currently working on [Vision Exclusive](https://discord.gg/visionexclusive)
-
 - 👨‍💻 All of my projects are available at [https://github.com/dekufpss](https://github.com/dekufpss)
 
 - 💬 Ask me about **HTML,CSS**
