@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ItalianFreeroam](https://discord.gg/italianfreeroam)
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dekufpss](https://github.com/dekufpss)
 
