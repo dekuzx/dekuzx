@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm deku</h1>
 
-- 💻 I’m currently learning on [Aulab](https://aulab.it/)
-
 - 👨‍🎓 I’m currently learning **Javascript - PHP**
 
 <h3 align="left">Languages and Tools:</h3>
