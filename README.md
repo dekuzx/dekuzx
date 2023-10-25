@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm deku</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently learning on [Aulab](https://aulab.it/)
+- 💻 I’m currently learning on [Aulab](https://aulab.it/)
 
-- 🌱 I’m currently learning **Javascript - PHP**
+- 👨‍🎓 I’m currently learning **Javascript - PHP**
 
 - 📫 How to reach me **dekusuport7@gmail.com**
 
