@@ -1,8 +1,8 @@
-**<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Daniel</p>
+<p align="left">My name is Deku</p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@
   <a href="https://twitter.com/dekuufps" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/itf" target="_blank">
+  <a href="@dekuzx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@dekuu/featured" target="_blank">
@@ -64,4 +64,3 @@
 </div>
 
 ###
-**
