@@ -39,24 +39,9 @@
     
 ###
     
-<div align="center">
-      <img src="https://profile-counter.glitch.me/dekuzx/count.svg?"  />
-    </div>
-    
-###
-    
- <div align="center">
-      <img height="300" src="https://kinsta.com/it/wp-content/uploads/sites/2/2021/08/how-to-become-a-web-developer-it-1024x512.jpeg"  />
-</div>
-    
-###
-    
 <div align="left">
       <a href="https://twitter.com/dekuufps" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-      </a>
-      <a href="@dekuzx" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
       </a>
       <a href="https://www.youtube.com/@dekuu/featured" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
