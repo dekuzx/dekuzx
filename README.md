@@ -23,6 +23,7 @@
       <img width="12" />
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
       <img width="12" />
+          <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
      <a href="https://getbootstrap.com/"  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /></a>
       <img width="12" />
       <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /></a>
